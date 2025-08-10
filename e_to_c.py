@@ -76,7 +76,7 @@ def generate_face_map(face: str, size: int, in_w: int, in_h: int, overlap_deg: f
     Yn = Y / norm
     Zn = Z / norm
 
-    theta = np.arctan2(Zn, Xn)
+    theta = np.arctan2(-Zn, Xn)
     phi = np.arcsin(Yn)
 
     map_x = (theta + math.pi) / (2 * math.pi) * (in_w - 1)
