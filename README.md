@@ -30,6 +30,6 @@
 |bottom|[filename]_negy.png|<img width="288" height="288" alt="frame_0001_negy" src="https://github.com/user-attachments/assets/fef3bce3-ecf4-4456-8913-2177b7690923" />|
 |top|[filename]_posy.png|<img width="288" height="288" alt="frame_0001_posy" src="https://github.com/user-attachments/assets/1e207e07-1800-4789-9f20-f32334cc0a49" />|
 |forward|[filename]_posz.png|<img width="288" height="288" alt="frame_0001_posz" src="https://github.com/user-attachments/assets/27211589-9b0f-4b60-af5f-71916b600e10" />|
-|top|[filename]_negz.png|<img width="288" height="288" alt="frame_0001_negz" src="https://github.com/user-attachments/assets/0e822f3a-1211-419b-b98a-256c798b8ba6" />|
+|back|[filename]_negz.png|<img width="288" height="288" alt="frame_0001_negz" src="https://github.com/user-attachments/assets/0e822f3a-1211-419b-b98a-256c798b8ba6" />|
 
 
